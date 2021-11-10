@@ -7,6 +7,4 @@ const Cody Jiang = {
     wechat: 'zlxy200279'
   }
   
-  💼: (résumé) => {}
-  
 }
