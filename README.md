@@ -1,9 +1,9 @@
 const Cody Jiang = {
   
   Personal Info:{
-    Sophomore at New York University
-    Major: 'Computer Science'
-    Minor: 'Game Engineering'
+    Sophomore at New York University \n
+    Major: 'Computer Science' \n
+    Minor: 'Game Engineering' \n
     Published Paper: "A new application in cancer diagnosis based on convolutional neural network"
   }
   
