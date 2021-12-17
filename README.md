@@ -1,4 +1,4 @@
-const Cody Jiang = {
+const Cody - Zhihong Jiang = {
   
   Personal Info:{
     Sophomore at New York University
