@@ -1,7 +1,7 @@
 const Cody - Zhihong Jiang = {
   
   Personal Info:{
-    Sophomore at New York University
+    Undergraduate Student at New York University
     Major: 'Computer Science'
     Minor: 'Game Engineering'
     Published Paper: "A new application in cancer diagnosis based on convolutional neural network"
