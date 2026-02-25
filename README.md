@@ -58,3 +58,7 @@
 <p align="center">
   <sub>If it scales, adapts, or learns — I probably tried building it.</sub>
 </p>
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
