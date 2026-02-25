@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zj2247@nyu.edu">
+  <a href="mailto:cody.jiang@nyu.edu">
     <img src="https://img.shields.io/badge/EMAIL-zj2247%40nyu.edu-blue?style=for-the-badge&logo=microsoft-outlook"/>
   </a>
   <a href="https://cody-jiang-zhihong.github.io/">
