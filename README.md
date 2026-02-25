@@ -1,9 +1,9 @@
 <h1 align="center">
-  🎯 Zhihong (Cody) Jiang
+  Zhihong (Cody) Jiang
 </h1>
 
 <p align="center">
-  🔥 AI Systems · Scalable ML · Game Intelligence 🔥
+  AI Systems · Scalable ML · Game Intelligence
 </p>
 
 <p align="center">
@@ -23,14 +23,14 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 > Engineering *clarity* over complexity.  
 > Building *scalable* AI pipelines & *interactive* intelligence.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cody-jiang-zhihong&show_icons=true&theme=radical&hide_border=true" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,unity,docker,linux,git,aws,scala,spark" />
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚡ Core Focus
+## Core Focus
 
 ```text
 • Scalable Machine Learning Engineering
