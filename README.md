@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=650&lines=Engineer+of+Scalable+AI;Builder+of+Intelligent+Systems;Game+AI+Researcher+Fueled+by+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=650&lines=Gaming+Nerd;Engineer+of+Scalable+AI;Builder+of+Intelligent+Systems;Game+AI+Researcher+Fueled+by+Code" />
 </p>
 
 ---
