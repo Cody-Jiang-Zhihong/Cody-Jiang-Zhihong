@@ -5,7 +5,7 @@
 
 <!-- ======= TYPING EFFECT ======= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=350&center=true&vCenter=true&width=900&lines=Making+Code+Behave+Intelligently;Teaching+Agents+to+Outsmart+Me;Scaling+Systems+Until+They+Complain;Turning+Ideas+into+Adaptive+Machines;Debugging+Reality+One+Commit+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=350&center=true&vCenter=true&width=950&lines=Turning+Coffee+Into+Commits;Teaching+Neural+Nets+to+Behave;Debugging+Things+I+Just+Broke;Scaling+Pipelines+and+My+Anxiety;Professional+Overthinker" />
 </p>
 
 <!-- ======= QUICK LINKS ======= -->
@@ -31,15 +31,15 @@
 
 <!-- ======= CORE STACK ======= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,unity,docker,linux,git,aws,scala" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,unity,docker,linux,git,scala" />
 </p>
 
 <!-- ======= DOMAIN SNAPSHOT ======= -->
 <p align="center">
   <img src="https://img.shields.io/badge/I%20Like-Adaptive%20AI-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/I%20Like-ML%20Infrastructure-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/I%20Like-Distributed%20Chaos-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/I%20Like-Search%20%26%20Strategy-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/I%20Love-The%20World-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/I%20Love-You-111827?style=flat-square" />
 </p>
 
 <hr/>
