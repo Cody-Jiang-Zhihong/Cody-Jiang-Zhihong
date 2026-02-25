@@ -1,82 +1,56 @@
-```{=html}
 <h1 align="center">
-```
-Zhihong (Cody) Jiang
-```{=html}
+  🎯 Zhihong (Cody) Jiang
 </h1>
-```
-```{=html}
+
 <p align="center">
-```
-AI Systems · Scalable ML Engineering · Game Intelligence
-```{=html}
+  🔥 AI Systems · Scalable ML · Game Intelligence 🔥
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://cody-jiang-zhihong.github.io/">`{=html}Portfolio`</a>`{=html}
-· `<a href="mailto:zj2247@nyu.edu">`{=html}Email`</a>`{=html}
-```{=html}
+  <a href="mailto:zj2247@nyu.edu">
+    <img src="https://img.shields.io/badge/EMAIL-zj2247%40nyu.edu-blue?style=for-the-badge&logo=microsoft-outlook"/>
+  </a>
+  <a href="https://cody-jiang-zhihong.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Now-darkgreen?style=for-the-badge"/>
+  </a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Scalable+Machine+Learning;Game+AI+Research;Designing+Adaptive+Intelligence" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&width=650&lines=Engineer+of+Scalable+AI;Builder+of+Intelligent+Systems;Game+AI+Researcher+Fueled+by+Code" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
+## 🧠 Overview
+
+> Engineering *clarity* over complexity.  
+> Building *scalable* AI pipelines & *interactive* intelligence.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=cody-jiang-zhihong&show_icons=true&theme=transparent&hide_border=true" />`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=cody-jiang-zhihong&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cody-jiang-zhihong&theme=radical&hide_border=true" />
 </p>
-```
-```{=html}
+
+---
+
+## 🧰 Tech Stack
+
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=cody-jiang-zhihong&theme=transparent&hide_border=true" />`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,unity,docker,linux,git,aws,scala,spark" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## Focus
+## ⚡ Core Focus
 
-``` text
-Building scalable AI systems.
-Designing intelligence under constraint.
-Engineering adaptive agents.
-Exploring co-evolution and search-driven learning.
-```
-
-------------------------------------------------------------------------
-
-## Core Stack
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,unity,docker,linux,git" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<i>`{=html}Engineering clarity over complexity.`</i>`{=html}
-```{=html}
-</p>
-```
+```text
+• Scalable Machine Learning Engineering
+• AI Systems & Distributed Processing
+• Game AI & Search-Driven Intelligence
+• Data Pipelines & Code Analysis Automation
