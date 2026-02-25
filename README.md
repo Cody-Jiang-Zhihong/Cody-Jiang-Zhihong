@@ -50,13 +50,3 @@
 </p>
 
 <hr/>
-
-<!-- ======= METRICS (animated-ish, high density, optional) ======= -->
-<p align="center">
-  <img width="720" src="https://github.com/lowlighter/metrics/blob/master/metrics.plugin.isocalendar.svg" />
-</p>
-
-<!-- ======= FOOTER ======= -->
-<p align="center">
-  <sub>Tip: pin your best repos below — let code speak.</sub>
-</p>
