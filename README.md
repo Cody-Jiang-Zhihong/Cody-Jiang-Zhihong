@@ -1,6 +1,6 @@
 <!-- ======= HERO BANNER (animated gradient) ======= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zhihong%20(Cody)%20Jiang&fontAlign=50&fontAlignY=40&desc=I%20Build%20Things%20That%20Think&descAlign=50&descAlignY=60&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zhihong%20(Cody)%20Jiang&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=60&color=gradient" />
 </p>
 
 <!-- ======= TYPING EFFECT ======= -->
@@ -24,7 +24,7 @@
 <!-- ======= IDENTITY LINE ======= -->
 <p align="center">
   <b>MSCS @ NYU · NYC</b><br/>
-  I design systems, train agents, and occasionally break distributed pipelines for fun.
+  Gaming Nerd I Am.
 </p>
 
 <hr/>
@@ -46,7 +46,7 @@
 
 <!-- ======= CONTRIBUTION SNAKE (animated) ======= -->
 <p align="center">
-  <i>This snake is powered entirely by caffeine and commit history.</i>
+  <i>This snake is powered entirely by caffeine and maybe commit history.</i>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 <hr/>
 
 <p align="center">
-  <sub>If it scales, adapts, or learns — I probably tried building it.</sub>
+  <sub>Why are these too short?</sub>
 </p>
 
 <p align="center">
