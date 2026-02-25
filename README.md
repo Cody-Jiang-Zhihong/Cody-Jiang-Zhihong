@@ -11,10 +11,10 @@
 <!-- ======= QUICK LINKS ======= -->
 <p align="center">
   <a href="https://cody-jiang-zhihong.github.io/">
-    <img src="https://img.shields.io/badge/See%20What%20I'm%20Building-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:cody.jiang@nyu.edu">
-    <img src="https://img.shields.io/badge/Send%20Me%20Signals-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/zhihong-cody-jiang/">
     <img src="https://img.shields.io/badge/Professional%20Mode-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" />
