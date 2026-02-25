@@ -1,30 +1,30 @@
 <!-- ======= HERO BANNER (animated gradient) ======= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zhihong%20(Cody)%20Jiang&fontAlign=50&fontAlignY=40&desc=Designing%20Adaptive%20Intelligence%20for%20a%20Distributed%20World&descAlign=50&descAlignY=60&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zhihong%20(Cody)%20Jiang&fontAlign=50&fontAlignY=40&desc=I%20Build%20Things%20That%20Think&descAlign=50&descAlignY=60&color=gradient" />
 </p>
 
 <!-- ======= TYPING EFFECT ======= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=400&center=true&vCenter=true&width=900&lines=Architecting+Scalable+AI+Systems;Teaching+Agents+to+Think+Under+Constraint;Designing+Search-Driven+Intelligence;Turning+Code+into+Adaptive+Behavior;Always+Iterating" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=350&center=true&vCenter=true&width=900&lines=Making+Code+Behave+Intelligently;Teaching+Agents+to+Outsmart+Me;Scaling+Systems+Until+They+Complain;Turning+Ideas+into+Adaptive+Machines;Debugging+Reality+One+Commit+at+a+Time" />
 </p>
 
-<!-- ======= QUICK LINKS (clean, high-signal) ======= -->
+<!-- ======= QUICK LINKS ======= -->
 <p align="center">
   <a href="https://cody-jiang-zhihong.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/See%20What%20I'm%20Building-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:cody.jiang@nyu.edu">
-    <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send%20Me%20Signals-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/zhihong-cody-jiang/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/Professional%20Mode-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <!-- ======= IDENTITY LINE ======= -->
 <p align="center">
   <b>MSCS @ NYU · NYC</b><br/>
-  Operating at the edge of scalable systems and machine intelligence.
+  I design systems, train agents, and occasionally break distributed pipelines for fun.
 </p>
 
 <hr/>
@@ -34,19 +34,19 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,csharp,pytorch,tensorflow,unity,docker,linux,git,aws,scala" />
 </p>
 
-<!-- ======= SYSTEM DOMAIN SNAPSHOT ======= -->
+<!-- ======= DOMAIN SNAPSHOT ======= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-Adaptive%20AI-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/DOMAIN-ML%20Infrastructure-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/DOMAIN-Distributed%20Compute-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/DOMAIN-Search%20%26%20Co--Evolution-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/I%20Like-Adaptive%20AI-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/I%20Like-ML%20Infrastructure-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/I%20Like-Distributed%20Chaos-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/I%20Like-Search%20%26%20Strategy-111827?style=flat-square" />
 </p>
 
 <hr/>
 
 <!-- ======= CONTRIBUTION SNAKE (animated) ======= -->
 <p align="center">
-  <i>Every commit is a step in system evolution.</i>
+  <i>This snake is powered entirely by caffeine and commit history.</i>
 </p>
 
 <p align="center">
@@ -56,5 +56,5 @@
 <hr/>
 
 <p align="center">
-  <sub>Code evolves. So do systems.</sub>
+  <sub>If it scales, adapts, or learns — I probably tried building it.</sub>
 </p>
