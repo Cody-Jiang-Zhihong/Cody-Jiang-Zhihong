@@ -10,7 +10,7 @@
 
 <!-- ======= QUICK LINKS ======= -->
 <p align="center">
-  <a href="https://cody-jiang-zhihong.github.io/">
+  <a href="https://codyjiang.com/">
     <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:cody.jiang@nyu.edu">
